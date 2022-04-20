@@ -15,23 +15,19 @@ body {
   box-sizing: border-box;
   background-color: hsl(212, 45%, 89%);
   text-align: center;
-  width: 60%;
-  height: 80%;
-  position: relative;
-  left: 250px;
-  top: 55px;
+  width: 100%;
+  height: 100%;
 }
 
 .qr-code {
   background-color: white;
-  box-sizing: content-box;
-  width: 25%;
+  width: 20%;
   height: 70%;
   text-align: center;
-  position: relative;
-  top: 75px;
-  left: 270px;
+  margin: auto;
   border-radius: 10px;
+  position:relative;
+  top:15%;
 }
 
 img {
@@ -44,15 +40,15 @@ img {
 .text1 {
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
-  width:80%;
+  width: 80%;
   margin: auto;
-  font-size: 75%;
+
 }
 
 .text2 {
   font-family: 'Outfit', sans-serif;
   color: hsl(220, 15%, 55%);
-  font-size: 58%;
-  width:80%;
+  font-size: 80%;
+  width: 80%;
   margin: auto;
 }
