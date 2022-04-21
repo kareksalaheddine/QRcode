@@ -55,4 +55,5 @@ img {
 
 @media only screen and (max-width:640px) {
 .qr-code{width:90%;}
+ .text2{font-size: 100%;}
 }
