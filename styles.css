@@ -52,3 +52,7 @@ img {
   width: 80%;
   margin: auto;
 }
+
+@media only screen and (max-width:640px) {
+.qr-code{width:90%;}
+}
